@@ -1,0 +1,27 @@
+# Streaming Graph Algorithm: Transitivity and Triangle Counts
+
+This project implements a streaming graph processing algorithm using **Reservoir Sampling** to estimate **transitivity** and **triangle counts** in large graphs.
+
+## Features
+- Implements Reservoir Sampling for edge streams.
+- Approximates wedges and closed wedges (triangles).
+- Estimates transitivity using a fixed memory size.
+
+## Requirements
+- Python 3.x
+- Required Python libraries (install with `pip install -r requirements.txt`):
+  - `networkx`
+  - `numpy`
+  - `matplotlib`
+
+## Directory Structure
+streaming-graph-algorithm/ ├── code/ │ ├── main.py # Main script │ ├── utils.py # Utility functions │ ├── config.py # Configuration variables │ ├── requirements.txt# Python dependencies ├── datasets/ # Graph datasets ├── results/ # Experiment results ├── docs/ # Documentation └── tests/ # Test cases
+
+
+
+## Installation
+1. Clone the repository or download the project files.
+2. Navigate to the project directory:
+   ```bash
+   cd streaming-graph-algorithm
+

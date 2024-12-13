@@ -1,0 +1,1054 @@
+Rule: {704} -> frozenset({825}), Confidence: 0.61
+Rule: {704} -> frozenset({39}), Confidence: 0.62
+Rule: {515} -> frozenset({283}), Confidence: 0.72
+Rule: {458} -> frozenset({208}), Confidence: 0.71
+Rule: {515} -> frozenset({217}), Confidence: 0.72
+Rule: {458} -> frozenset({290}), Confidence: 0.70
+Rule: {458} -> frozenset({888}), Confidence: 0.71
+Rule: {819} -> frozenset({70}), Confidence: 0.63
+Rule: {678} -> frozenset({471}), Confidence: 0.61
+Rule: {819} -> frozenset({684}), Confidence: 0.64
+Rule: {515} -> frozenset({346}), Confidence: 0.73
+Rule: {819} -> frozenset({765}), Confidence: 0.63
+Rule: {515} -> frozenset({33}), Confidence: 0.71
+Rule: {368, 937} -> frozenset({57}), Confidence: 0.62
+Rule: {368, 57} -> frozenset({937}), Confidence: 0.76
+Rule: {368, 494} -> frozenset({682}), Confidence: 0.69
+Rule: {682, 494} -> frozenset({368}), Confidence: 0.83
+Rule: {368, 296} -> frozenset({829}), Confidence: 0.79
+Rule: {296, 829} -> frozenset({368}), Confidence: 0.68
+Rule: {888, 561} -> frozenset({217}), Confidence: 0.62
+Rule: {888, 217} -> frozenset({561}), Confidence: 0.78
+Rule: {561, 217} -> frozenset({888}), Confidence: 0.81
+Rule: {561, 346} -> frozenset({217}), Confidence: 0.64
+Rule: {561, 217} -> frozenset({346}), Confidence: 0.82
+Rule: {888, 561} -> frozenset({346}), Confidence: 0.89
+Rule: {888, 346} -> frozenset({561}), Confidence: 0.88
+Rule: {561, 346} -> frozenset({888}), Confidence: 0.91
+Rule: {704, 825} -> frozenset({39}), Confidence: 0.94
+Rule: {704, 39} -> frozenset({825}), Confidence: 0.93
+Rule: {825, 39} -> frozenset({704}), Confidence: 0.87
+Rule: {419, 39} -> frozenset({145}), Confidence: 0.69
+Rule: {120, 862} -> frozenset({895}), Confidence: 0.86
+Rule: {120, 895} -> frozenset({862}), Confidence: 0.83
+Rule: {862, 895} -> frozenset({120}), Confidence: 0.90
+Rule: {120, 593} -> frozenset({895}), Confidence: 0.90
+Rule: {120, 895} -> frozenset({593}), Confidence: 0.85
+Rule: {593, 895} -> frozenset({120}), Confidence: 0.92
+Rule: {120, 90} -> frozenset({620}), Confidence: 0.88
+Rule: {120, 620} -> frozenset({90}), Confidence: 0.90
+Rule: {90, 620} -> frozenset({120}), Confidence: 0.84
+Rule: {120, 793} -> frozenset({620}), Confidence: 0.83
+Rule: {120, 620} -> frozenset({793}), Confidence: 0.89
+Rule: {793, 620} -> frozenset({120}), Confidence: 0.88
+Rule: {120, 620} -> frozenset({510}), Confidence: 0.87
+Rule: {120, 510} -> frozenset({620}), Confidence: 0.82
+Rule: {620, 510} -> frozenset({120}), Confidence: 0.87
+Rule: {120, 620} -> frozenset({309}), Confidence: 0.90
+Rule: {120, 309} -> frozenset({620}), Confidence: 0.92
+Rule: {620, 309} -> frozenset({120}), Confidence: 0.92
+Rule: {120, 593} -> frozenset({862}), Confidence: 0.89
+Rule: {120, 862} -> frozenset({593}), Confidence: 0.86
+Rule: {593, 862} -> frozenset({120}), Confidence: 0.93
+Rule: {120, 132} -> frozenset({638}), Confidence: 0.81
+Rule: {120, 638} -> frozenset({132}), Confidence: 0.83
+Rule: {132, 638} -> frozenset({120}), Confidence: 0.77
+Rule: {120, 132} -> frozenset({12}), Confidence: 0.82
+Rule: {120, 12} -> frozenset({132}), Confidence: 0.84
+Rule: {120, 793} -> frozenset({90}), Confidence: 0.83
+Rule: {120, 90} -> frozenset({793}), Confidence: 0.87
+Rule: {793, 90} -> frozenset({120}), Confidence: 0.87
+Rule: {120, 90} -> frozenset({510}), Confidence: 0.85
+Rule: {120, 510} -> frozenset({90}), Confidence: 0.82
+Rule: {90, 510} -> frozenset({120}), Confidence: 0.88
+Rule: {120, 90} -> frozenset({309}), Confidence: 0.89
+Rule: {120, 309} -> frozenset({90}), Confidence: 0.93
+Rule: {90, 309} -> frozenset({120}), Confidence: 0.87
+Rule: {120, 793} -> frozenset({510}), Confidence: 0.81
+Rule: {120, 510} -> frozenset({793}), Confidence: 0.82
+Rule: {793, 510} -> frozenset({120}), Confidence: 0.83
+Rule: {120, 793} -> frozenset({309}), Confidence: 0.84
+Rule: {120, 309} -> frozenset({793}), Confidence: 0.91
+Rule: {793, 309} -> frozenset({120}), Confidence: 0.91
+Rule: {857, 21} -> frozenset({793}), Confidence: 0.95
+Rule: {857, 793} -> frozenset({21}), Confidence: 0.95
+Rule: {793, 21} -> frozenset({857}), Confidence: 0.91
+Rule: {857, 21} -> frozenset({413}), Confidence: 0.94
+Rule: {857, 413} -> frozenset({21}), Confidence: 0.94
+Rule: {21, 413} -> frozenset({857}), Confidence: 0.91
+Rule: {857, 413} -> frozenset({793}), Confidence: 0.95
+Rule: {857, 793} -> frozenset({413}), Confidence: 0.94
+Rule: {793, 413} -> frozenset({857}), Confidence: 0.90
+Rule: {593, 862} -> frozenset({895}), Confidence: 0.93
+Rule: {593, 895} -> frozenset({862}), Confidence: 0.91
+Rule: {862, 895} -> frozenset({593}), Confidence: 0.90
+Rule: {978, 883} -> frozenset({708}), Confidence: 0.90
+Rule: {978, 708} -> frozenset({883}), Confidence: 0.95
+Rule: {883, 708} -> frozenset({978}), Confidence: 0.89
+Rule: {795, 853} -> frozenset({623}), Confidence: 0.89
+Rule: {795, 623} -> frozenset({853}), Confidence: 0.89
+Rule: {853, 623} -> frozenset({795}), Confidence: 0.91
+Rule: {795, 571} -> frozenset({853}), Confidence: 0.85
+Rule: {571, 853} -> frozenset({795}), Confidence: 0.90
+Rule: {795, 853} -> frozenset({571}), Confidence: 0.89
+Rule: {571, 853} -> frozenset({623}), Confidence: 0.90
+Rule: {571, 623} -> frozenset({853}), Confidence: 0.91
+Rule: {853, 623} -> frozenset({571}), Confidence: 0.90
+Rule: {217, 346} -> frozenset({283}), Confidence: 0.62
+Rule: {217, 283} -> frozenset({346}), Confidence: 0.89
+Rule: {346, 283} -> frozenset({217}), Confidence: 0.91
+Rule: {217, 283} -> frozenset({33}), Confidence: 0.86
+Rule: {217, 33} -> frozenset({283}), Confidence: 0.93
+Rule: {33, 283} -> frozenset({217}), Confidence: 0.94
+Rule: {515} -> frozenset({217, 283}), Confidence: 0.69
+Rule: {217, 515} -> frozenset({283}), Confidence: 0.95
+Rule: {283, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {217, 283} -> frozenset({515}), Confidence: 0.86
+Rule: {33, 346} -> frozenset({283}), Confidence: 0.95
+Rule: {33, 283} -> frozenset({346}), Confidence: 0.95
+Rule: {346, 283} -> frozenset({33}), Confidence: 0.88
+Rule: {515} -> frozenset({346, 283}), Confidence: 0.69
+Rule: {346, 515} -> frozenset({283}), Confidence: 0.95
+Rule: {283, 515} -> frozenset({346}), Confidence: 0.97
+Rule: {346, 283} -> frozenset({515}), Confidence: 0.89
+Rule: {515} -> frozenset({33, 283}), Confidence: 0.67
+Rule: {33, 515} -> frozenset({283}), Confidence: 0.95
+Rule: {283, 515} -> frozenset({33}), Confidence: 0.94
+Rule: {33, 283} -> frozenset({515}), Confidence: 0.93
+Rule: {960, 597} -> frozenset({766}), Confidence: 0.88
+Rule: {960, 766} -> frozenset({597}), Confidence: 0.71
+Rule: {597, 766} -> frozenset({960}), Confidence: 0.78
+Rule: {793, 90} -> frozenset({620}), Confidence: 0.89
+Rule: {793, 620} -> frozenset({90}), Confidence: 0.89
+Rule: {90, 620} -> frozenset({793}), Confidence: 0.84
+Rule: {90, 620} -> frozenset({510}), Confidence: 0.82
+Rule: {90, 510} -> frozenset({620}), Confidence: 0.89
+Rule: {620, 510} -> frozenset({90}), Confidence: 0.89
+Rule: {90, 620} -> frozenset({309}), Confidence: 0.85
+Rule: {90, 309} -> frozenset({620}), Confidence: 0.88
+Rule: {620, 309} -> frozenset({90}), Confidence: 0.94
+Rule: {793, 620} -> frozenset({510}), Confidence: 0.87
+Rule: {793, 510} -> frozenset({620}), Confidence: 0.85
+Rule: {620, 510} -> frozenset({793}), Confidence: 0.89
+Rule: {793, 620} -> frozenset({309}), Confidence: 0.90
+Rule: {793, 309} -> frozenset({620}), Confidence: 0.92
+Rule: {620, 309} -> frozenset({793}), Confidence: 0.93
+Rule: {460, 919} -> frozenset({143}), Confidence: 0.79
+Rule: {143, 919} -> frozenset({460}), Confidence: 0.82
+Rule: {460, 143} -> frozenset({919}), Confidence: 0.84
+Rule: {392, 569} -> frozenset({461}), Confidence: 0.86
+Rule: {392, 461} -> frozenset({569}), Confidence: 0.91
+Rule: {569, 461} -> frozenset({392}), Confidence: 0.92
+Rule: {392, 569} -> frozenset({862}), Confidence: 0.89
+Rule: {569, 862} -> frozenset({392}), Confidence: 0.86
+Rule: {569, 461} -> frozenset({862}), Confidence: 0.92
+Rule: {569, 862} -> frozenset({461}), Confidence: 0.84
+Rule: {461, 862} -> frozenset({569}), Confidence: 0.90
+Rule: {529, 782} -> frozenset({598}), Confidence: 0.85
+Rule: {529, 598} -> frozenset({782}), Confidence: 0.78
+Rule: {598, 782} -> frozenset({529}), Confidence: 0.92
+Rule: {217, 546} -> frozenset({947}), Confidence: 0.96
+Rule: {217, 947} -> frozenset({546}), Confidence: 0.81
+Rule: {546, 947} -> frozenset({217}), Confidence: 0.95
+Rule: {217, 947} -> frozenset({923}), Confidence: 0.81
+Rule: {217, 923} -> frozenset({947}), Confidence: 0.93
+Rule: {947, 923} -> frozenset({217}), Confidence: 0.68
+Rule: {217, 947} -> frozenset({661}), Confidence: 0.81
+Rule: {217, 661} -> frozenset({947}), Confidence: 0.84
+Rule: {947, 661} -> frozenset({217}), Confidence: 0.92
+Rule: {32, 947} -> frozenset({285}), Confidence: 0.85
+Rule: {32, 285} -> frozenset({947}), Confidence: 0.89
+Rule: {947, 285} -> frozenset({32}), Confidence: 0.90
+Rule: {546, 947} -> frozenset({923}), Confidence: 0.96
+Rule: {546, 923} -> frozenset({947}), Confidence: 0.97
+Rule: {947, 923} -> frozenset({546}), Confidence: 0.68
+Rule: {546, 947} -> frozenset({661}), Confidence: 0.97
+Rule: {546, 661} -> frozenset({947}), Confidence: 0.97
+Rule: {947, 661} -> frozenset({546}), Confidence: 0.93
+Rule: {947, 923} -> frozenset({661}), Confidence: 0.69
+Rule: {947, 661} -> frozenset({923}), Confidence: 0.93
+Rule: {923, 661} -> frozenset({947}), Confidence: 0.95
+Rule: {354, 956} -> frozenset({214}), Confidence: 0.75
+Rule: {956, 214} -> frozenset({354}), Confidence: 0.76
+Rule: {960, 185} -> frozenset({678}), Confidence: 0.96
+Rule: {960, 678} -> frozenset({185}), Confidence: 0.97
+Rule: {185, 678} -> frozenset({960}), Confidence: 0.98
+Rule: {960, 185} -> frozenset({471}), Confidence: 0.97
+Rule: {960, 471} -> frozenset({185}), Confidence: 0.70
+Rule: {185, 471} -> frozenset({960}), Confidence: 0.96
+Rule: {185, 678} -> frozenset({471}), Confidence: 0.99
+Rule: {185, 471} -> frozenset({678}), Confidence: 0.97
+Rule: {678, 471} -> frozenset({185}), Confidence: 0.81
+Rule: {579, 803} -> frozenset({350}), Confidence: 0.91
+Rule: {803, 350} -> frozenset({579}), Confidence: 0.89
+Rule: {579, 350} -> frozenset({803}), Confidence: 0.90
+Rule: {579, 411} -> frozenset({350}), Confidence: 0.91
+Rule: {579, 350} -> frozenset({411}), Confidence: 0.89
+Rule: {411, 350} -> frozenset({579}), Confidence: 0.90
+Rule: {579, 572} -> frozenset({350}), Confidence: 0.93
+Rule: {579, 350} -> frozenset({572}), Confidence: 0.88
+Rule: {572, 350} -> frozenset({579}), Confidence: 0.91
+Rule: {803, 411} -> frozenset({350}), Confidence: 0.69
+Rule: {803, 350} -> frozenset({411}), Confidence: 0.90
+Rule: {411, 350} -> frozenset({803}), Confidence: 0.92
+Rule: {803, 572} -> frozenset({350}), Confidence: 0.93
+Rule: {803, 350} -> frozenset({572}), Confidence: 0.89
+Rule: {572, 350} -> frozenset({803}), Confidence: 0.92
+Rule: {411, 572} -> frozenset({350}), Confidence: 0.93
+Rule: {411, 350} -> frozenset({572}), Confidence: 0.91
+Rule: {572, 350} -> frozenset({411}), Confidence: 0.92
+Rule: {722, 227} -> frozenset({390}), Confidence: 0.91
+Rule: {722, 390} -> frozenset({227}), Confidence: 0.87
+Rule: {227, 390} -> frozenset({722}), Confidence: 0.86
+Rule: {227, 12} -> frozenset({390}), Confidence: 0.92
+Rule: {12, 390} -> frozenset({227}), Confidence: 0.88
+Rule: {722, 227} -> frozenset({12}), Confidence: 0.61
+Rule: {722, 12} -> frozenset({227}), Confidence: 0.82
+Rule: {227, 12} -> frozenset({722}), Confidence: 0.93
+Rule: {722, 12} -> frozenset({390}), Confidence: 0.85
+Rule: {722, 390} -> frozenset({12}), Confidence: 0.60
+Rule: {12, 390} -> frozenset({722}), Confidence: 0.92
+Rule: {984, 793} -> frozenset({914}), Confidence: 0.72
+Rule: {984, 914} -> frozenset({793}), Confidence: 0.86
+Rule: {793, 914} -> frozenset({984}), Confidence: 0.83
+Rule: {192, 888} -> frozenset({487}), Confidence: 0.93
+Rule: {192, 487} -> frozenset({888}), Confidence: 0.96
+Rule: {888, 487} -> frozenset({192}), Confidence: 0.89
+Rule: {192, 888} -> frozenset({935}), Confidence: 0.95
+Rule: {192, 935} -> frozenset({888}), Confidence: 0.65
+Rule: {888, 935} -> frozenset({192}), Confidence: 0.94
+Rule: {192, 888} -> frozenset({638}), Confidence: 0.93
+Rule: {192, 638} -> frozenset({888}), Confidence: 0.94
+Rule: {888, 638} -> frozenset({192}), Confidence: 0.94
+Rule: {192, 935} -> frozenset({487}), Confidence: 0.65
+Rule: {192, 487} -> frozenset({935}), Confidence: 0.97
+Rule: {487, 935} -> frozenset({192}), Confidence: 0.96
+Rule: {192, 638} -> frozenset({487}), Confidence: 0.94
+Rule: {192, 487} -> frozenset({638}), Confidence: 0.96
+Rule: {638, 487} -> frozenset({192}), Confidence: 0.95
+Rule: {192, 638} -> frozenset({935}), Confidence: 0.95
+Rule: {192, 935} -> frozenset({638}), Confidence: 0.65
+Rule: {638, 935} -> frozenset({192}), Confidence: 0.98
+Rule: {458} -> frozenset({208, 290}), Confidence: 0.67
+Rule: {208, 458} -> frozenset({290}), Confidence: 0.94
+Rule: {208, 290} -> frozenset({458}), Confidence: 0.94
+Rule: {458, 290} -> frozenset({208}), Confidence: 0.96
+Rule: {208, 290} -> frozenset({888}), Confidence: 0.95
+Rule: {208, 888} -> frozenset({290}), Confidence: 0.92
+Rule: {888, 290} -> frozenset({208}), Confidence: 0.92
+Rule: {458} -> frozenset({208, 888}), Confidence: 0.67
+Rule: {208, 458} -> frozenset({888}), Confidence: 0.95
+Rule: {208, 888} -> frozenset({458}), Confidence: 0.91
+Rule: {888, 458} -> frozenset({208}), Confidence: 0.95
+Rule: {72, 183} -> frozenset({541}), Confidence: 0.76
+Rule: {541, 183} -> frozenset({72}), Confidence: 0.83
+Rule: {888, 217} -> frozenset({346}), Confidence: 0.81
+Rule: {888, 346} -> frozenset({217}), Confidence: 0.64
+Rule: {217, 510} -> frozenset({487}), Confidence: 0.82
+Rule: {217, 487} -> frozenset({510}), Confidence: 0.82
+Rule: {510, 487} -> frozenset({217}), Confidence: 0.69
+Rule: {217, 346} -> frozenset({33}), Confidence: 0.60
+Rule: {217, 33} -> frozenset({346}), Confidence: 0.94
+Rule: {33, 346} -> frozenset({217}), Confidence: 0.95
+Rule: {515} -> frozenset({217, 346}), Confidence: 0.69
+Rule: {217, 346} -> frozenset({515}), Confidence: 0.61
+Rule: {217, 515} -> frozenset({346}), Confidence: 0.96
+Rule: {346, 515} -> frozenset({217}), Confidence: 0.95
+Rule: {515} -> frozenset({217, 33}), Confidence: 0.68
+Rule: {217, 515} -> frozenset({33}), Confidence: 0.94
+Rule: {217, 33} -> frozenset({515}), Confidence: 0.93
+Rule: {33, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {217, 546} -> frozenset({923}), Confidence: 0.96
+Rule: {217, 923} -> frozenset({546}), Confidence: 0.92
+Rule: {546, 923} -> frozenset({217}), Confidence: 0.96
+Rule: {217, 546} -> frozenset({661}), Confidence: 0.98
+Rule: {217, 661} -> frozenset({546}), Confidence: 0.84
+Rule: {546, 661} -> frozenset({217}), Confidence: 0.96
+Rule: {217, 923} -> frozenset({661}), Confidence: 0.93
+Rule: {217, 661} -> frozenset({923}), Confidence: 0.84
+Rule: {923, 661} -> frozenset({217}), Confidence: 0.94
+Rule: {795, 571} -> frozenset({623}), Confidence: 0.84
+Rule: {571, 623} -> frozenset({795}), Confidence: 0.90
+Rule: {795, 623} -> frozenset({571}), Confidence: 0.87
+Rule: {960, 678} -> frozenset({471}), Confidence: 0.98
+Rule: {960, 471} -> frozenset({678}), Confidence: 0.70
+Rule: {678, 471} -> frozenset({960}), Confidence: 0.81
+Rule: {392, 461} -> frozenset({862}), Confidence: 0.93
+Rule: {461, 862} -> frozenset({392}), Confidence: 0.91
+Rule: {392, 242} -> frozenset({489}), Confidence: 0.62
+Rule: {489, 242} -> frozenset({392}), Confidence: 0.62
+Rule: {944, 862} -> frozenset({494}), Confidence: 0.83
+Rule: {944, 494} -> frozenset({862}), Confidence: 0.84
+Rule: {862, 494} -> frozenset({944}), Confidence: 0.76
+Rule: {944, 105} -> frozenset({862}), Confidence: 0.89
+Rule: {944, 862} -> frozenset({105}), Confidence: 0.85
+Rule: {105, 862} -> frozenset({944}), Confidence: 0.91
+Rule: {944, 862} -> frozenset({815}), Confidence: 0.84
+Rule: {944, 815} -> frozenset({862}), Confidence: 0.88
+Rule: {862, 815} -> frozenset({944}), Confidence: 0.90
+Rule: {105, 862} -> frozenset({494}), Confidence: 0.89
+Rule: {105, 494} -> frozenset({862}), Confidence: 0.88
+Rule: {862, 494} -> frozenset({105}), Confidence: 0.76
+Rule: {862, 494} -> frozenset({815}), Confidence: 0.76
+Rule: {862, 815} -> frozenset({494}), Confidence: 0.89
+Rule: {494, 815} -> frozenset({862}), Confidence: 0.87
+Rule: {105, 862} -> frozenset({815}), Confidence: 0.89
+Rule: {105, 815} -> frozenset({862}), Confidence: 0.89
+Rule: {862, 815} -> frozenset({105}), Confidence: 0.89
+Rule: {354, 27} -> frozenset({58}), Confidence: 0.84
+Rule: {354, 58} -> frozenset({27}), Confidence: 0.69
+Rule: {58, 27} -> frozenset({354}), Confidence: 0.83
+Rule: {579, 803} -> frozenset({411}), Confidence: 0.93
+Rule: {803, 411} -> frozenset({579}), Confidence: 0.69
+Rule: {579, 411} -> frozenset({803}), Confidence: 0.93
+Rule: {579, 803} -> frozenset({572}), Confidence: 0.90
+Rule: {803, 572} -> frozenset({579}), Confidence: 0.93
+Rule: {579, 572} -> frozenset({803}), Confidence: 0.93
+Rule: {579, 411} -> frozenset({572}), Confidence: 0.91
+Rule: {579, 572} -> frozenset({411}), Confidence: 0.93
+Rule: {411, 572} -> frozenset({579}), Confidence: 0.92
+Rule: {803, 411} -> frozenset({572}), Confidence: 0.69
+Rule: {803, 572} -> frozenset({411}), Confidence: 0.94
+Rule: {411, 572} -> frozenset({803}), Confidence: 0.93
+Rule: {458} -> frozenset({888, 290}), Confidence: 0.67
+Rule: {888, 458} -> frozenset({290}), Confidence: 0.94
+Rule: {888, 290} -> frozenset({458}), Confidence: 0.91
+Rule: {458, 290} -> frozenset({888}), Confidence: 0.95
+Rule: {944, 105} -> frozenset({494}), Confidence: 0.89
+Rule: {944, 494} -> frozenset({105}), Confidence: 0.85
+Rule: {105, 494} -> frozenset({944}), Confidence: 0.90
+Rule: {944, 494} -> frozenset({815}), Confidence: 0.85
+Rule: {944, 815} -> frozenset({494}), Confidence: 0.88
+Rule: {494, 815} -> frozenset({944}), Confidence: 0.88
+Rule: {944, 54} -> frozenset({998}), Confidence: 0.90
+Rule: {944, 998} -> frozenset({54}), Confidence: 0.91
+Rule: {54, 998} -> frozenset({944}), Confidence: 0.91
+Rule: {944, 105} -> frozenset({815}), Confidence: 0.90
+Rule: {944, 815} -> frozenset({105}), Confidence: 0.90
+Rule: {105, 815} -> frozenset({944}), Confidence: 0.92
+Rule: {888, 935} -> frozenset({487}), Confidence: 0.93
+Rule: {888, 487} -> frozenset({935}), Confidence: 0.89
+Rule: {487, 935} -> frozenset({888}), Confidence: 0.96
+Rule: {888, 638} -> frozenset({487}), Confidence: 0.94
+Rule: {888, 487} -> frozenset({638}), Confidence: 0.89
+Rule: {638, 487} -> frozenset({888}), Confidence: 0.95
+Rule: {888, 638} -> frozenset({935}), Confidence: 0.94
+Rule: {888, 935} -> frozenset({638}), Confidence: 0.93
+Rule: {638, 935} -> frozenset({888}), Confidence: 0.96
+Rule: {684, 765} -> frozenset({70}), Confidence: 0.86
+Rule: {684, 70} -> frozenset({765}), Confidence: 0.81
+Rule: {765, 70} -> frozenset({684}), Confidence: 0.88
+Rule: {819, 684} -> frozenset({70}), Confidence: 0.88
+Rule: {819, 70} -> frozenset({684}), Confidence: 0.88
+Rule: {684, 70} -> frozenset({819}), Confidence: 0.81
+Rule: {819, 765} -> frozenset({70}), Confidence: 0.89
+Rule: {819, 70} -> frozenset({765}), Confidence: 0.87
+Rule: {765, 70} -> frozenset({819}), Confidence: 0.88
+Rule: {362, 21} -> frozenset({918}), Confidence: 0.87
+Rule: {362, 918} -> frozenset({21}), Confidence: 0.86
+Rule: {21, 918} -> frozenset({362}), Confidence: 0.89
+Rule: {57, 362} -> frozenset({918}), Confidence: 0.85
+Rule: {57, 918} -> frozenset({362}), Confidence: 0.91
+Rule: {362, 918} -> frozenset({57}), Confidence: 0.86
+Rule: {362, 38} -> frozenset({918}), Confidence: 0.75
+Rule: {918, 38} -> frozenset({362}), Confidence: 0.91
+Rule: {362, 918} -> frozenset({38}), Confidence: 0.87
+Rule: {57, 21} -> frozenset({918}), Confidence: 0.69
+Rule: {57, 918} -> frozenset({21}), Confidence: 0.90
+Rule: {21, 918} -> frozenset({57}), Confidence: 0.89
+Rule: {541, 494} -> frozenset({631}), Confidence: 0.80
+Rule: {541, 631} -> frozenset({494}), Confidence: 0.89
+Rule: {494, 631} -> frozenset({541}), Confidence: 0.84
+Rule: {963, 541} -> frozenset({631}), Confidence: 0.92
+Rule: {963, 631} -> frozenset({541}), Confidence: 0.91
+Rule: {541, 631} -> frozenset({963}), Confidence: 0.86
+Rule: {17, 956} -> frozenset({541}), Confidence: 0.73
+Rule: {17, 541} -> frozenset({956}), Confidence: 0.73
+Rule: {956, 541} -> frozenset({17}), Confidence: 0.78
+Rule: {956, 541} -> frozenset({236}), Confidence: 0.77
+Rule: {236, 541} -> frozenset({956}), Confidence: 0.86
+Rule: {956, 236} -> frozenset({541}), Confidence: 0.85
+Rule: {963, 541} -> frozenset({494}), Confidence: 0.93
+Rule: {963, 494} -> frozenset({541}), Confidence: 0.90
+Rule: {541, 494} -> frozenset({963}), Confidence: 0.79
+Rule: {638, 935} -> frozenset({487}), Confidence: 0.97
+Rule: {487, 935} -> frozenset({638}), Confidence: 0.96
+Rule: {638, 487} -> frozenset({935}), Confidence: 0.95
+Rule: {780, 735} -> frozenset({631}), Confidence: 0.93
+Rule: {631, 735} -> frozenset({780}), Confidence: 0.92
+Rule: {780, 631} -> frozenset({735}), Confidence: 0.91
+Rule: {963, 494} -> frozenset({631}), Confidence: 0.89
+Rule: {963, 631} -> frozenset({494}), Confidence: 0.92
+Rule: {494, 631} -> frozenset({963}), Confidence: 0.83
+Rule: {242, 758} -> frozenset({471}), Confidence: 0.91
+Rule: {242, 471} -> frozenset({758}), Confidence: 0.89
+Rule: {758, 471} -> frozenset({242}), Confidence: 0.87
+Rule: {871, 663} -> frozenset({471}), Confidence: 0.91
+Rule: {471, 663} -> frozenset({871}), Confidence: 0.90
+Rule: {471, 871} -> frozenset({663}), Confidence: 0.88
+Rule: {617, 354} -> frozenset({583}), Confidence: 0.86
+Rule: {617, 583} -> frozenset({354}), Confidence: 0.93
+Rule: {354, 583} -> frozenset({617}), Confidence: 0.89
+Rule: {923, 460} -> frozenset({684}), Confidence: 0.75
+Rule: {684, 460} -> frozenset({923}), Confidence: 0.69
+Rule: {923, 684} -> frozenset({460}), Confidence: 0.84
+Rule: {819, 684} -> frozenset({765}), Confidence: 0.87
+Rule: {819, 765} -> frozenset({684}), Confidence: 0.89
+Rule: {684, 765} -> frozenset({819}), Confidence: 0.86
+Rule: {75, 684} -> frozenset({438}), Confidence: 0.84
+Rule: {75, 438} -> frozenset({684}), Confidence: 0.87
+Rule: {684, 438} -> frozenset({75}), Confidence: 0.81
+Rule: {515} -> frozenset({33, 346}), Confidence: 0.68
+Rule: {33, 346} -> frozenset({515}), Confidence: 0.94
+Rule: {33, 515} -> frozenset({346}), Confidence: 0.97
+Rule: {346, 515} -> frozenset({33}), Confidence: 0.94
+Rule: {105, 494} -> frozenset({815}), Confidence: 0.89
+Rule: {105, 815} -> frozenset({494}), Confidence: 0.90
+Rule: {494, 815} -> frozenset({105}), Confidence: 0.88
+Rule: {57, 362} -> frozenset({21}), Confidence: 0.84
+Rule: {57, 21} -> frozenset({362}), Confidence: 0.69
+Rule: {362, 21} -> frozenset({57}), Confidence: 0.87
+Rule: {472, 32} -> frozenset({6}), Confidence: 0.89
+Rule: {472, 6} -> frozenset({32}), Confidence: 0.86
+Rule: {32, 6} -> frozenset({472}), Confidence: 0.90
+Rule: {285, 69} -> frozenset({871}), Confidence: 0.91
+Rule: {69, 871} -> frozenset({285}), Confidence: 0.90
+Rule: {285, 871} -> frozenset({69}), Confidence: 0.89
+Rule: {793, 21} -> frozenset({413}), Confidence: 0.92
+Rule: {793, 413} -> frozenset({21}), Confidence: 0.91
+Rule: {21, 413} -> frozenset({793}), Confidence: 0.93
+Rule: {793, 90} -> frozenset({510}), Confidence: 0.87
+Rule: {793, 510} -> frozenset({90}), Confidence: 0.84
+Rule: {90, 510} -> frozenset({793}), Confidence: 0.89
+Rule: {793, 90} -> frozenset({309}), Confidence: 0.91
+Rule: {793, 309} -> frozenset({90}), Confidence: 0.93
+Rule: {90, 309} -> frozenset({793}), Confidence: 0.88
+Rule: {995, 470} -> frozenset({534}), Confidence: 0.88
+Rule: {995, 534} -> frozenset({470}), Confidence: 0.89
+Rule: {470, 534} -> frozenset({995}), Confidence: 0.87
+Rule: {716, 373} -> frozenset({4}), Confidence: 0.91
+Rule: {4, 373} -> frozenset({716}), Confidence: 0.93
+Rule: {716, 4} -> frozenset({373}), Confidence: 0.92
+Rule: {546, 923} -> frozenset({661}), Confidence: 0.99
+Rule: {546, 661} -> frozenset({923}), Confidence: 0.97
+Rule: {923, 661} -> frozenset({546}), Confidence: 0.95
+Rule: {888, 217} -> frozenset({561, 346}), Confidence: 0.75
+Rule: {561, 346} -> frozenset({888, 217}), Confidence: 0.61
+Rule: {561, 217} -> frozenset({888, 346}), Confidence: 0.78
+Rule: {888, 561, 346} -> frozenset({217}), Confidence: 0.67
+Rule: {888, 561, 217} -> frozenset({346}), Confidence: 0.96
+Rule: {888, 217, 346} -> frozenset({561}), Confidence: 0.92
+Rule: {561, 346, 217} -> frozenset({888}), Confidence: 0.95
+Rule: {120, 593} -> frozenset({862, 895}), Confidence: 0.88
+Rule: {120, 862} -> frozenset({593, 895}), Confidence: 0.85
+Rule: {120, 895} -> frozenset({593, 862}), Confidence: 0.82
+Rule: {593, 862} -> frozenset({120, 895}), Confidence: 0.91
+Rule: {593, 895} -> frozenset({120, 862}), Confidence: 0.89
+Rule: {862, 895} -> frozenset({120, 593}), Confidence: 0.89
+Rule: {120, 593, 862} -> frozenset({895}), Confidence: 0.98
+Rule: {120, 593, 895} -> frozenset({862}), Confidence: 0.97
+Rule: {120, 862, 895} -> frozenset({593}), Confidence: 0.98
+Rule: {593, 862, 895} -> frozenset({120}), Confidence: 0.98
+Rule: {120, 793} -> frozenset({90, 620}), Confidence: 0.80
+Rule: {120, 90} -> frozenset({793, 620}), Confidence: 0.83
+Rule: {120, 620} -> frozenset({793, 90}), Confidence: 0.85
+Rule: {793, 90} -> frozenset({120, 620}), Confidence: 0.84
+Rule: {793, 620} -> frozenset({120, 90}), Confidence: 0.84
+Rule: {90, 620} -> frozenset({120, 793}), Confidence: 0.79
+Rule: {120, 793, 90} -> frozenset({620}), Confidence: 0.96
+Rule: {120, 793, 620} -> frozenset({90}), Confidence: 0.96
+Rule: {120, 90, 620} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 90, 620} -> frozenset({120}), Confidence: 0.94
+Rule: {120, 90} -> frozenset({620, 510}), Confidence: 0.81
+Rule: {120, 620} -> frozenset({90, 510}), Confidence: 0.83
+Rule: {120, 510} -> frozenset({90, 620}), Confidence: 0.79
+Rule: {90, 620} -> frozenset({120, 510}), Confidence: 0.77
+Rule: {90, 510} -> frozenset({120, 620}), Confidence: 0.84
+Rule: {620, 510} -> frozenset({120, 90}), Confidence: 0.84
+Rule: {120, 90, 620} -> frozenset({510}), Confidence: 0.93
+Rule: {120, 90, 510} -> frozenset({620}), Confidence: 0.95
+Rule: {120, 620, 510} -> frozenset({90}), Confidence: 0.96
+Rule: {90, 620, 510} -> frozenset({120}), Confidence: 0.94
+Rule: {120, 90} -> frozenset({620, 309}), Confidence: 0.85
+Rule: {120, 620} -> frozenset({90, 309}), Confidence: 0.87
+Rule: {120, 309} -> frozenset({90, 620}), Confidence: 0.88
+Rule: {90, 620} -> frozenset({120, 309}), Confidence: 0.81
+Rule: {90, 309} -> frozenset({120, 620}), Confidence: 0.83
+Rule: {620, 309} -> frozenset({120, 90}), Confidence: 0.88
+Rule: {120, 90, 620} -> frozenset({309}), Confidence: 0.96
+Rule: {120, 90, 309} -> frozenset({620}), Confidence: 0.95
+Rule: {120, 620, 309} -> frozenset({90}), Confidence: 0.96
+Rule: {90, 620, 309} -> frozenset({120}), Confidence: 0.94
+Rule: {120, 793} -> frozenset({620, 510}), Confidence: 0.78
+Rule: {120, 620} -> frozenset({793, 510}), Confidence: 0.83
+Rule: {120, 510} -> frozenset({793, 620}), Confidence: 0.78
+Rule: {793, 620} -> frozenset({120, 510}), Confidence: 0.82
+Rule: {793, 510} -> frozenset({120, 620}), Confidence: 0.79
+Rule: {620, 510} -> frozenset({120, 793}), Confidence: 0.83
+Rule: {120, 793, 620} -> frozenset({510}), Confidence: 0.93
+Rule: {120, 793, 510} -> frozenset({620}), Confidence: 0.96
+Rule: {120, 620, 510} -> frozenset({793}), Confidence: 0.96
+Rule: {793, 620, 510} -> frozenset({120}), Confidence: 0.93
+Rule: {120, 793} -> frozenset({620, 309}), Confidence: 0.80
+Rule: {120, 620} -> frozenset({793, 309}), Confidence: 0.86
+Rule: {120, 309} -> frozenset({793, 620}), Confidence: 0.87
+Rule: {793, 620} -> frozenset({120, 309}), Confidence: 0.85
+Rule: {793, 309} -> frozenset({120, 620}), Confidence: 0.87
+Rule: {620, 309} -> frozenset({120, 793}), Confidence: 0.88
+Rule: {120, 793, 620} -> frozenset({309}), Confidence: 0.96
+Rule: {120, 793, 309} -> frozenset({620}), Confidence: 0.96
+Rule: {120, 620, 309} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 620, 309} -> frozenset({120}), Confidence: 0.94
+Rule: {120, 793} -> frozenset({90, 510}), Confidence: 0.78
+Rule: {120, 90} -> frozenset({793, 510}), Confidence: 0.81
+Rule: {120, 510} -> frozenset({793, 90}), Confidence: 0.78
+Rule: {793, 90} -> frozenset({120, 510}), Confidence: 0.82
+Rule: {793, 510} -> frozenset({120, 90}), Confidence: 0.79
+Rule: {90, 510} -> frozenset({120, 793}), Confidence: 0.83
+Rule: {120, 793, 90} -> frozenset({510}), Confidence: 0.94
+Rule: {120, 793, 510} -> frozenset({90}), Confidence: 0.96
+Rule: {120, 90, 510} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 90, 510} -> frozenset({120}), Confidence: 0.94
+Rule: {120, 793} -> frozenset({90, 309}), Confidence: 0.81
+Rule: {120, 90} -> frozenset({793, 309}), Confidence: 0.84
+Rule: {120, 309} -> frozenset({793, 90}), Confidence: 0.88
+Rule: {793, 90} -> frozenset({120, 309}), Confidence: 0.85
+Rule: {793, 309} -> frozenset({120, 90}), Confidence: 0.87
+Rule: {90, 309} -> frozenset({120, 793}), Confidence: 0.82
+Rule: {120, 793, 90} -> frozenset({309}), Confidence: 0.97
+Rule: {120, 793, 309} -> frozenset({90}), Confidence: 0.96
+Rule: {120, 90, 309} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 90, 309} -> frozenset({120}), Confidence: 0.94
+Rule: {857, 21} -> frozenset({793, 413}), Confidence: 0.91
+Rule: {857, 793} -> frozenset({21, 413}), Confidence: 0.90
+Rule: {857, 413} -> frozenset({793, 21}), Confidence: 0.91
+Rule: {793, 21} -> frozenset({857, 413}), Confidence: 0.87
+Rule: {21, 413} -> frozenset({857, 793}), Confidence: 0.88
+Rule: {793, 413} -> frozenset({857, 21}), Confidence: 0.87
+Rule: {857, 21, 793} -> frozenset({413}), Confidence: 0.96
+Rule: {857, 21, 413} -> frozenset({793}), Confidence: 0.97
+Rule: {857, 413, 793} -> frozenset({21}), Confidence: 0.96
+Rule: {793, 21, 413} -> frozenset({857}), Confidence: 0.95
+Rule: {795, 571} -> frozenset({853, 623}), Confidence: 0.78
+Rule: {571, 853} -> frozenset({795, 623}), Confidence: 0.83
+Rule: {571, 623} -> frozenset({795, 853}), Confidence: 0.84
+Rule: {795, 853} -> frozenset({571, 623}), Confidence: 0.81
+Rule: {795, 623} -> frozenset({571, 853}), Confidence: 0.81
+Rule: {853, 623} -> frozenset({795, 571}), Confidence: 0.83
+Rule: {795, 571, 853} -> frozenset({623}), Confidence: 0.92
+Rule: {795, 571, 623} -> frozenset({853}), Confidence: 0.93
+Rule: {571, 853, 623} -> frozenset({795}), Confidence: 0.92
+Rule: {795, 853, 623} -> frozenset({571}), Confidence: 0.91
+Rule: {33, 346} -> frozenset({217, 283}), Confidence: 0.91
+Rule: {33, 283} -> frozenset({217, 346}), Confidence: 0.91
+Rule: {33, 217} -> frozenset({346, 283}), Confidence: 0.90
+Rule: {346, 283} -> frozenset({33, 217}), Confidence: 0.84
+Rule: {217, 283} -> frozenset({33, 346}), Confidence: 0.83
+Rule: {33, 346, 283} -> frozenset({217}), Confidence: 0.96
+Rule: {33, 346, 217} -> frozenset({283}), Confidence: 0.96
+Rule: {33, 283, 217} -> frozenset({346}), Confidence: 0.97
+Rule: {217, 346, 283} -> frozenset({33}), Confidence: 0.93
+Rule: {515} -> frozenset({217, 346, 283}), Confidence: 0.66
+Rule: {217, 515} -> frozenset({346, 283}), Confidence: 0.92
+Rule: {346, 515} -> frozenset({217, 283}), Confidence: 0.91
+Rule: {283, 515} -> frozenset({217, 346}), Confidence: 0.93
+Rule: {217, 283} -> frozenset({346, 515}), Confidence: 0.83
+Rule: {346, 283} -> frozenset({217, 515}), Confidence: 0.85
+Rule: {217, 346, 515} -> frozenset({283}), Confidence: 0.96
+Rule: {283, 217, 515} -> frozenset({346}), Confidence: 0.97
+Rule: {283, 346, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {217, 346, 283} -> frozenset({515}), Confidence: 0.93
+Rule: {515} -> frozenset({33, 283, 217}), Confidence: 0.65
+Rule: {33, 515} -> frozenset({217, 283}), Confidence: 0.92
+Rule: {283, 515} -> frozenset({33, 217}), Confidence: 0.90
+Rule: {217, 515} -> frozenset({33, 283}), Confidence: 0.90
+Rule: {33, 283} -> frozenset({217, 515}), Confidence: 0.89
+Rule: {33, 217} -> frozenset({283, 515}), Confidence: 0.89
+Rule: {217, 283} -> frozenset({33, 515}), Confidence: 0.82
+Rule: {283, 33, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {33, 515, 217} -> frozenset({283}), Confidence: 0.96
+Rule: {283, 217, 515} -> frozenset({33}), Confidence: 0.94
+Rule: {33, 283, 217} -> frozenset({515}), Confidence: 0.95
+Rule: {515} -> frozenset({33, 346, 283}), Confidence: 0.65
+Rule: {33, 515} -> frozenset({346, 283}), Confidence: 0.93
+Rule: {346, 515} -> frozenset({33, 283}), Confidence: 0.90
+Rule: {283, 515} -> frozenset({33, 346}), Confidence: 0.91
+Rule: {33, 346} -> frozenset({283, 515}), Confidence: 0.90
+Rule: {33, 283} -> frozenset({346, 515}), Confidence: 0.90
+Rule: {346, 283} -> frozenset({33, 515}), Confidence: 0.84
+Rule: {33, 346, 515} -> frozenset({283}), Confidence: 0.96
+Rule: {283, 33, 515} -> frozenset({346}), Confidence: 0.97
+Rule: {283, 346, 515} -> frozenset({33}), Confidence: 0.95
+Rule: {33, 346, 283} -> frozenset({515}), Confidence: 0.95
+Rule: {793, 90} -> frozenset({620, 510}), Confidence: 0.83
+Rule: {793, 620} -> frozenset({90, 510}), Confidence: 0.83
+Rule: {793, 510} -> frozenset({90, 620}), Confidence: 0.81
+Rule: {90, 620} -> frozenset({793, 510}), Confidence: 0.78
+Rule: {90, 510} -> frozenset({793, 620}), Confidence: 0.85
+Rule: {620, 510} -> frozenset({793, 90}), Confidence: 0.85
+Rule: {793, 90, 620} -> frozenset({510}), Confidence: 0.93
+Rule: {793, 90, 510} -> frozenset({620}), Confidence: 0.95
+Rule: {793, 620, 510} -> frozenset({90}), Confidence: 0.95
+Rule: {90, 620, 510} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 90} -> frozenset({620, 309}), Confidence: 0.86
+Rule: {793, 620} -> frozenset({90, 309}), Confidence: 0.86
+Rule: {793, 309} -> frozenset({90, 620}), Confidence: 0.88
+Rule: {90, 620} -> frozenset({793, 309}), Confidence: 0.81
+Rule: {90, 309} -> frozenset({793, 620}), Confidence: 0.83
+Rule: {620, 309} -> frozenset({793, 90}), Confidence: 0.89
+Rule: {793, 90, 620} -> frozenset({309}), Confidence: 0.96
+Rule: {793, 90, 309} -> frozenset({620}), Confidence: 0.95
+Rule: {793, 620, 309} -> frozenset({90}), Confidence: 0.96
+Rule: {90, 620, 309} -> frozenset({793}), Confidence: 0.95
+Rule: {392, 569} -> frozenset({461, 862}), Confidence: 0.82
+Rule: {392, 461} -> frozenset({569, 862}), Confidence: 0.87
+Rule: {569, 461} -> frozenset({392, 862}), Confidence: 0.87
+Rule: {569, 862} -> frozenset({392, 461}), Confidence: 0.79
+Rule: {461, 862} -> frozenset({392, 569}), Confidence: 0.85
+Rule: {392, 569, 461} -> frozenset({862}), Confidence: 0.95
+Rule: {392, 569, 862} -> frozenset({461}), Confidence: 0.92
+Rule: {392, 461, 862} -> frozenset({569}), Confidence: 0.94
+Rule: {569, 461, 862} -> frozenset({392}), Confidence: 0.95
+Rule: {217, 546} -> frozenset({947, 923}), Confidence: 0.94
+Rule: {217, 947} -> frozenset({546, 923}), Confidence: 0.79
+Rule: {217, 923} -> frozenset({546, 947}), Confidence: 0.90
+Rule: {546, 947} -> frozenset({217, 923}), Confidence: 0.93
+Rule: {546, 923} -> frozenset({217, 947}), Confidence: 0.94
+Rule: {947, 923} -> frozenset({217, 546}), Confidence: 0.66
+Rule: {217, 546, 947} -> frozenset({923}), Confidence: 0.98
+Rule: {217, 546, 923} -> frozenset({947}), Confidence: 0.98
+Rule: {217, 947, 923} -> frozenset({546}), Confidence: 0.97
+Rule: {546, 947, 923} -> frozenset({217}), Confidence: 0.97
+Rule: {217, 546} -> frozenset({947, 661}), Confidence: 0.95
+Rule: {217, 947} -> frozenset({546, 661}), Confidence: 0.80
+Rule: {217, 661} -> frozenset({546, 947}), Confidence: 0.83
+Rule: {546, 947} -> frozenset({217, 661}), Confidence: 0.94
+Rule: {546, 661} -> frozenset({217, 947}), Confidence: 0.94
+Rule: {947, 661} -> frozenset({217, 546}), Confidence: 0.90
+Rule: {217, 546, 947} -> frozenset({661}), Confidence: 0.99
+Rule: {217, 546, 661} -> frozenset({947}), Confidence: 0.98
+Rule: {217, 947, 661} -> frozenset({546}), Confidence: 0.98
+Rule: {546, 947, 661} -> frozenset({217}), Confidence: 0.97
+Rule: {217, 947} -> frozenset({923, 661}), Confidence: 0.79
+Rule: {217, 923} -> frozenset({947, 661}), Confidence: 0.91
+Rule: {217, 661} -> frozenset({947, 923}), Confidence: 0.82
+Rule: {947, 923} -> frozenset({217, 661}), Confidence: 0.66
+Rule: {947, 661} -> frozenset({217, 923}), Confidence: 0.89
+Rule: {923, 661} -> frozenset({217, 947}), Confidence: 0.91
+Rule: {217, 947, 923} -> frozenset({661}), Confidence: 0.97
+Rule: {217, 947, 661} -> frozenset({923}), Confidence: 0.97
+Rule: {217, 923, 661} -> frozenset({947}), Confidence: 0.97
+Rule: {947, 923, 661} -> frozenset({217}), Confidence: 0.96
+Rule: {546, 947} -> frozenset({923, 661}), Confidence: 0.95
+Rule: {546, 923} -> frozenset({947, 661}), Confidence: 0.96
+Rule: {546, 661} -> frozenset({947, 923}), Confidence: 0.95
+Rule: {947, 923} -> frozenset({546, 661}), Confidence: 0.67
+Rule: {947, 661} -> frozenset({546, 923}), Confidence: 0.91
+Rule: {923, 661} -> frozenset({546, 947}), Confidence: 0.93
+Rule: {546, 947, 923} -> frozenset({661}), Confidence: 0.99
+Rule: {546, 947, 661} -> frozenset({923}), Confidence: 0.98
+Rule: {546, 923, 661} -> frozenset({947}), Confidence: 0.98
+Rule: {947, 923, 661} -> frozenset({546}), Confidence: 0.98
+Rule: {960, 185} -> frozenset({678, 471}), Confidence: 0.96
+Rule: {960, 678} -> frozenset({185, 471}), Confidence: 0.97
+Rule: {960, 471} -> frozenset({185, 678}), Confidence: 0.69
+Rule: {185, 678} -> frozenset({960, 471}), Confidence: 0.98
+Rule: {185, 471} -> frozenset({960, 678}), Confidence: 0.95
+Rule: {678, 471} -> frozenset({960, 185}), Confidence: 0.80
+Rule: {960, 185, 678} -> frozenset({471}), Confidence: 0.99
+Rule: {960, 185, 471} -> frozenset({678}), Confidence: 0.99
+Rule: {960, 678, 471} -> frozenset({185}), Confidence: 0.98
+Rule: {185, 678, 471} -> frozenset({960}), Confidence: 0.99
+Rule: {579, 803} -> frozenset({411, 350}), Confidence: 0.86
+Rule: {803, 411} -> frozenset({579, 350}), Confidence: 0.65
+Rule: {803, 350} -> frozenset({579, 411}), Confidence: 0.84
+Rule: {579, 411} -> frozenset({803, 350}), Confidence: 0.87
+Rule: {579, 350} -> frozenset({803, 411}), Confidence: 0.85
+Rule: {411, 350} -> frozenset({579, 803}), Confidence: 0.86
+Rule: {579, 803, 411} -> frozenset({350}), Confidence: 0.93
+Rule: {579, 803, 350} -> frozenset({411}), Confidence: 0.95
+Rule: {803, 411, 350} -> frozenset({579}), Confidence: 0.93
+Rule: {579, 411, 350} -> frozenset({803}), Confidence: 0.95
+Rule: {579, 803} -> frozenset({572, 350}), Confidence: 0.85
+Rule: {803, 572} -> frozenset({579, 350}), Confidence: 0.87
+Rule: {803, 350} -> frozenset({579, 572}), Confidence: 0.83
+Rule: {579, 572} -> frozenset({803, 350}), Confidence: 0.88
+Rule: {579, 350} -> frozenset({803, 572}), Confidence: 0.84
+Rule: {572, 350} -> frozenset({579, 803}), Confidence: 0.86
+Rule: {579, 803, 572} -> frozenset({350}), Confidence: 0.94
+Rule: {579, 803, 350} -> frozenset({572}), Confidence: 0.93
+Rule: {803, 572, 350} -> frozenset({579}), Confidence: 0.94
+Rule: {579, 572, 350} -> frozenset({803}), Confidence: 0.95
+Rule: {579, 411} -> frozenset({572, 350}), Confidence: 0.86
+Rule: {579, 350} -> frozenset({411, 572}), Confidence: 0.84
+Rule: {579, 572} -> frozenset({411, 350}), Confidence: 0.88
+Rule: {411, 350} -> frozenset({579, 572}), Confidence: 0.85
+Rule: {411, 572} -> frozenset({579, 350}), Confidence: 0.87
+Rule: {572, 350} -> frozenset({579, 411}), Confidence: 0.86
+Rule: {579, 411, 350} -> frozenset({572}), Confidence: 0.94
+Rule: {579, 411, 572} -> frozenset({350}), Confidence: 0.94
+Rule: {579, 572, 350} -> frozenset({411}), Confidence: 0.95
+Rule: {411, 572, 350} -> frozenset({579}), Confidence: 0.94
+Rule: {803, 411} -> frozenset({572, 350}), Confidence: 0.65
+Rule: {803, 350} -> frozenset({411, 572}), Confidence: 0.84
+Rule: {803, 572} -> frozenset({411, 350}), Confidence: 0.89
+Rule: {411, 350} -> frozenset({803, 572}), Confidence: 0.86
+Rule: {411, 572} -> frozenset({803, 350}), Confidence: 0.88
+Rule: {572, 350} -> frozenset({803, 411}), Confidence: 0.87
+Rule: {803, 411, 350} -> frozenset({572}), Confidence: 0.93
+Rule: {803, 411, 572} -> frozenset({350}), Confidence: 0.94
+Rule: {803, 572, 350} -> frozenset({411}), Confidence: 0.95
+Rule: {411, 572, 350} -> frozenset({803}), Confidence: 0.95
+Rule: {722, 12} -> frozenset({227, 390}), Confidence: 0.78
+Rule: {227, 12} -> frozenset({722, 390}), Confidence: 0.88
+Rule: {12, 390} -> frozenset({722, 227}), Confidence: 0.84
+Rule: {722, 227, 12} -> frozenset({390}), Confidence: 0.95
+Rule: {722, 227, 390} -> frozenset({12}), Confidence: 0.64
+Rule: {722, 12, 390} -> frozenset({227}), Confidence: 0.92
+Rule: {227, 12, 390} -> frozenset({722}), Confidence: 0.95
+Rule: {192, 935} -> frozenset({888, 487}), Confidence: 0.64
+Rule: {192, 888} -> frozenset({487, 935}), Confidence: 0.93
+Rule: {192, 487} -> frozenset({888, 935}), Confidence: 0.96
+Rule: {888, 935} -> frozenset({192, 487}), Confidence: 0.93
+Rule: {487, 935} -> frozenset({192, 888}), Confidence: 0.95
+Rule: {888, 487} -> frozenset({192, 935}), Confidence: 0.89
+Rule: {192, 888, 935} -> frozenset({487}), Confidence: 0.98
+Rule: {192, 487, 935} -> frozenset({888}), Confidence: 0.99
+Rule: {192, 888, 487} -> frozenset({935}), Confidence: 1.00
+Rule: {888, 487, 935} -> frozenset({192}), Confidence: 1.00
+Rule: {192, 888} -> frozenset({638, 487}), Confidence: 0.93
+Rule: {192, 638} -> frozenset({888, 487}), Confidence: 0.94
+Rule: {192, 487} -> frozenset({888, 638}), Confidence: 0.96
+Rule: {888, 638} -> frozenset({192, 487}), Confidence: 0.94
+Rule: {888, 487} -> frozenset({192, 638}), Confidence: 0.89
+Rule: {638, 487} -> frozenset({192, 888}), Confidence: 0.95
+Rule: {192, 888, 638} -> frozenset({487}), Confidence: 1.00
+Rule: {192, 888, 487} -> frozenset({638}), Confidence: 1.00
+Rule: {192, 638, 487} -> frozenset({888}), Confidence: 1.00
+Rule: {888, 638, 487} -> frozenset({192}), Confidence: 1.00
+Rule: {192, 888} -> frozenset({638, 935}), Confidence: 0.93
+Rule: {192, 638} -> frozenset({888, 935}), Confidence: 0.94
+Rule: {192, 935} -> frozenset({888, 638}), Confidence: 0.64
+Rule: {888, 638} -> frozenset({192, 935}), Confidence: 0.94
+Rule: {888, 935} -> frozenset({192, 638}), Confidence: 0.93
+Rule: {638, 935} -> frozenset({192, 888}), Confidence: 0.96
+Rule: {192, 888, 638} -> frozenset({935}), Confidence: 1.00
+Rule: {192, 888, 935} -> frozenset({638}), Confidence: 0.98
+Rule: {192, 638, 935} -> frozenset({888}), Confidence: 0.98
+Rule: {888, 638, 935} -> frozenset({192}), Confidence: 1.00
+Rule: {192, 487} -> frozenset({638, 935}), Confidence: 0.96
+Rule: {192, 638} -> frozenset({935, 487}), Confidence: 0.94
+Rule: {192, 935} -> frozenset({638, 487}), Confidence: 0.64
+Rule: {638, 487} -> frozenset({192, 935}), Confidence: 0.95
+Rule: {935, 487} -> frozenset({192, 638}), Confidence: 0.95
+Rule: {638, 935} -> frozenset({192, 487}), Confidence: 0.96
+Rule: {192, 638, 487} -> frozenset({935}), Confidence: 1.00
+Rule: {192, 935, 487} -> frozenset({638}), Confidence: 0.99
+Rule: {192, 638, 935} -> frozenset({487}), Confidence: 0.98
+Rule: {935, 638, 487} -> frozenset({192}), Confidence: 1.00
+Rule: {458} -> frozenset({208, 290, 888}), Confidence: 0.64
+Rule: {208, 458} -> frozenset({888, 290}), Confidence: 0.90
+Rule: {208, 290} -> frozenset({888, 458}), Confidence: 0.90
+Rule: {208, 888} -> frozenset({458, 290}), Confidence: 0.87
+Rule: {458, 290} -> frozenset({208, 888}), Confidence: 0.92
+Rule: {888, 458} -> frozenset({208, 290}), Confidence: 0.90
+Rule: {888, 290} -> frozenset({208, 458}), Confidence: 0.87
+Rule: {208, 458, 290} -> frozenset({888}), Confidence: 0.96
+Rule: {208, 458, 888} -> frozenset({290}), Confidence: 0.95
+Rule: {208, 290, 888} -> frozenset({458}), Confidence: 0.94
+Rule: {888, 458, 290} -> frozenset({208}), Confidence: 0.96
+Rule: {515} -> frozenset({33, 346, 217}), Confidence: 0.66
+Rule: {33, 346} -> frozenset({217, 515}), Confidence: 0.91
+Rule: {33, 515} -> frozenset({217, 346}), Confidence: 0.93
+Rule: {33, 217} -> frozenset({346, 515}), Confidence: 0.90
+Rule: {346, 515} -> frozenset({33, 217}), Confidence: 0.90
+Rule: {217, 515} -> frozenset({33, 346}), Confidence: 0.91
+Rule: {33, 346, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {33, 346, 217} -> frozenset({515}), Confidence: 0.95
+Rule: {33, 515, 217} -> frozenset({346}), Confidence: 0.97
+Rule: {217, 346, 515} -> frozenset({33}), Confidence: 0.94
+Rule: {217, 546} -> frozenset({923, 661}), Confidence: 0.95
+Rule: {217, 923} -> frozenset({546, 661}), Confidence: 0.91
+Rule: {217, 661} -> frozenset({546, 923}), Confidence: 0.82
+Rule: {546, 923} -> frozenset({217, 661}), Confidence: 0.95
+Rule: {546, 661} -> frozenset({217, 923}), Confidence: 0.94
+Rule: {923, 661} -> frozenset({217, 546}), Confidence: 0.92
+Rule: {217, 546, 923} -> frozenset({661}), Confidence: 0.99
+Rule: {217, 546, 661} -> frozenset({923}), Confidence: 0.98
+Rule: {217, 923, 661} -> frozenset({546}), Confidence: 0.98
+Rule: {546, 923, 661} -> frozenset({217}), Confidence: 0.96
+Rule: {944, 105} -> frozenset({862, 494}), Confidence: 0.81
+Rule: {944, 494} -> frozenset({105, 862}), Confidence: 0.78
+Rule: {944, 862} -> frozenset({105, 494}), Confidence: 0.77
+Rule: {105, 494} -> frozenset({944, 862}), Confidence: 0.82
+Rule: {105, 862} -> frozenset({944, 494}), Confidence: 0.82
+Rule: {862, 494} -> frozenset({944, 105}), Confidence: 0.70
+Rule: {944, 105, 494} -> frozenset({862}), Confidence: 0.91
+Rule: {944, 105, 862} -> frozenset({494}), Confidence: 0.91
+Rule: {944, 862, 494} -> frozenset({105}), Confidence: 0.92
+Rule: {105, 494, 862} -> frozenset({944}), Confidence: 0.92
+Rule: {944, 815} -> frozenset({862, 494}), Confidence: 0.80
+Rule: {944, 862} -> frozenset({494, 815}), Confidence: 0.76
+Rule: {944, 494} -> frozenset({862, 815}), Confidence: 0.77
+Rule: {862, 815} -> frozenset({944, 494}), Confidence: 0.82
+Rule: {494, 815} -> frozenset({944, 862}), Confidence: 0.80
+Rule: {862, 494} -> frozenset({944, 815}), Confidence: 0.70
+Rule: {944, 862, 815} -> frozenset({494}), Confidence: 0.91
+Rule: {944, 494, 815} -> frozenset({862}), Confidence: 0.91
+Rule: {944, 862, 494} -> frozenset({815}), Confidence: 0.91
+Rule: {494, 862, 815} -> frozenset({944}), Confidence: 0.92
+Rule: {944, 105} -> frozenset({862, 815}), Confidence: 0.81
+Rule: {944, 862} -> frozenset({105, 815}), Confidence: 0.77
+Rule: {944, 815} -> frozenset({105, 862}), Confidence: 0.81
+Rule: {105, 862} -> frozenset({944, 815}), Confidence: 0.83
+Rule: {105, 815} -> frozenset({944, 862}), Confidence: 0.83
+Rule: {862, 815} -> frozenset({944, 105}), Confidence: 0.83
+Rule: {944, 105, 862} -> frozenset({815}), Confidence: 0.91
+Rule: {944, 105, 815} -> frozenset({862}), Confidence: 0.90
+Rule: {944, 862, 815} -> frozenset({105}), Confidence: 0.92
+Rule: {105, 862, 815} -> frozenset({944}), Confidence: 0.93
+Rule: {105, 862} -> frozenset({494, 815}), Confidence: 0.81
+Rule: {105, 494} -> frozenset({862, 815}), Confidence: 0.80
+Rule: {105, 815} -> frozenset({862, 494}), Confidence: 0.81
+Rule: {862, 494} -> frozenset({105, 815}), Confidence: 0.69
+Rule: {862, 815} -> frozenset({105, 494}), Confidence: 0.81
+Rule: {494, 815} -> frozenset({105, 862}), Confidence: 0.80
+Rule: {105, 862, 494} -> frozenset({815}), Confidence: 0.91
+Rule: {105, 862, 815} -> frozenset({494}), Confidence: 0.91
+Rule: {105, 494, 815} -> frozenset({862}), Confidence: 0.91
+Rule: {815, 862, 494} -> frozenset({105}), Confidence: 0.92
+Rule: {579, 803} -> frozenset({411, 572}), Confidence: 0.86
+Rule: {803, 411} -> frozenset({579, 572}), Confidence: 0.65
+Rule: {803, 572} -> frozenset({579, 411}), Confidence: 0.88
+Rule: {579, 411} -> frozenset({803, 572}), Confidence: 0.86
+Rule: {579, 572} -> frozenset({803, 411}), Confidence: 0.89
+Rule: {411, 572} -> frozenset({579, 803}), Confidence: 0.87
+Rule: {579, 803, 411} -> frozenset({572}), Confidence: 0.93
+Rule: {579, 803, 572} -> frozenset({411}), Confidence: 0.95
+Rule: {803, 411, 572} -> frozenset({579}), Confidence: 0.94
+Rule: {579, 411, 572} -> frozenset({803}), Confidence: 0.95
+Rule: {944, 105} -> frozenset({494, 815}), Confidence: 0.82
+Rule: {944, 494} -> frozenset({105, 815}), Confidence: 0.78
+Rule: {944, 815} -> frozenset({105, 494}), Confidence: 0.82
+Rule: {105, 494} -> frozenset({944, 815}), Confidence: 0.82
+Rule: {105, 815} -> frozenset({944, 494}), Confidence: 0.83
+Rule: {494, 815} -> frozenset({944, 105}), Confidence: 0.82
+Rule: {944, 105, 494} -> frozenset({815}), Confidence: 0.92
+Rule: {944, 105, 815} -> frozenset({494}), Confidence: 0.90
+Rule: {944, 494, 815} -> frozenset({105}), Confidence: 0.93
+Rule: {105, 494, 815} -> frozenset({944}), Confidence: 0.93
+Rule: {888, 487} -> frozenset({638, 935}), Confidence: 0.89
+Rule: {888, 638} -> frozenset({935, 487}), Confidence: 0.94
+Rule: {888, 935} -> frozenset({638, 487}), Confidence: 0.93
+Rule: {638, 487} -> frozenset({888, 935}), Confidence: 0.95
+Rule: {935, 487} -> frozenset({888, 638}), Confidence: 0.95
+Rule: {638, 935} -> frozenset({888, 487}), Confidence: 0.96
+Rule: {888, 638, 487} -> frozenset({935}), Confidence: 1.00
+Rule: {888, 935, 487} -> frozenset({638}), Confidence: 1.00
+Rule: {888, 638, 935} -> frozenset({487}), Confidence: 1.00
+Rule: {935, 638, 487} -> frozenset({888}), Confidence: 1.00
+Rule: {819, 684} -> frozenset({765, 70}), Confidence: 0.79
+Rule: {819, 765} -> frozenset({684, 70}), Confidence: 0.80
+Rule: {819, 70} -> frozenset({684, 765}), Confidence: 0.79
+Rule: {684, 765} -> frozenset({819, 70}), Confidence: 0.78
+Rule: {684, 70} -> frozenset({819, 765}), Confidence: 0.73
+Rule: {765, 70} -> frozenset({819, 684}), Confidence: 0.80
+Rule: {819, 684, 765} -> frozenset({70}), Confidence: 0.90
+Rule: {819, 684, 70} -> frozenset({765}), Confidence: 0.90
+Rule: {819, 765, 70} -> frozenset({684}), Confidence: 0.90
+Rule: {684, 765, 70} -> frozenset({819}), Confidence: 0.91
+Rule: {57, 362} -> frozenset({21, 918}), Confidence: 0.81
+Rule: {57, 21} -> frozenset({362, 918}), Confidence: 0.66
+Rule: {57, 918} -> frozenset({362, 21}), Confidence: 0.86
+Rule: {362, 21} -> frozenset({57, 918}), Confidence: 0.83
+Rule: {362, 918} -> frozenset({57, 21}), Confidence: 0.82
+Rule: {21, 918} -> frozenset({57, 362}), Confidence: 0.85
+Rule: {57, 362, 21} -> frozenset({918}), Confidence: 0.96
+Rule: {57, 362, 918} -> frozenset({21}), Confidence: 0.95
+Rule: {57, 21, 918} -> frozenset({362}), Confidence: 0.96
+Rule: {362, 21, 918} -> frozenset({57}), Confidence: 0.95
+Rule: {963, 541} -> frozenset({494, 631}), Confidence: 0.87
+Rule: {963, 494} -> frozenset({541, 631}), Confidence: 0.84
+Rule: {963, 631} -> frozenset({541, 494}), Confidence: 0.87
+Rule: {541, 494} -> frozenset({963, 631}), Confidence: 0.74
+Rule: {541, 631} -> frozenset({963, 494}), Confidence: 0.82
+Rule: {494, 631} -> frozenset({963, 541}), Confidence: 0.78
+Rule: {963, 541, 494} -> frozenset({631}), Confidence: 0.93
+Rule: {963, 541, 631} -> frozenset({494}), Confidence: 0.95
+Rule: {963, 494, 631} -> frozenset({541}), Confidence: 0.94
+Rule: {541, 494, 631} -> frozenset({963}), Confidence: 0.93
+Rule: {120, 620} -> frozenset({793, 90, 510}), Confidence: 0.80
+Rule: {793, 620} -> frozenset({120, 90, 510}), Confidence: 0.79
+Rule: {90, 620} -> frozenset({120, 793, 510}), Confidence: 0.74
+Rule: {620, 510} -> frozenset({120, 793, 90}), Confidence: 0.80
+Rule: {120, 793} -> frozenset({90, 620, 510}), Confidence: 0.75
+Rule: {120, 90} -> frozenset({793, 620, 510}), Confidence: 0.78
+Rule: {120, 510} -> frozenset({793, 90, 620}), Confidence: 0.75
+Rule: {793, 90} -> frozenset({120, 620, 510}), Confidence: 0.79
+Rule: {793, 510} -> frozenset({120, 90, 620}), Confidence: 0.76
+Rule: {90, 510} -> frozenset({120, 793, 620}), Confidence: 0.80
+Rule: {120, 793, 620} -> frozenset({90, 510}), Confidence: 0.90
+Rule: {120, 90, 620} -> frozenset({793, 510}), Confidence: 0.89
+Rule: {120, 620, 510} -> frozenset({793, 90}), Confidence: 0.92
+Rule: {793, 90, 620} -> frozenset({120, 510}), Confidence: 0.88
+Rule: {793, 620, 510} -> frozenset({120, 90}), Confidence: 0.90
+Rule: {90, 620, 510} -> frozenset({120, 793}), Confidence: 0.90
+Rule: {120, 793, 90} -> frozenset({620, 510}), Confidence: 0.90
+Rule: {120, 793, 510} -> frozenset({90, 620}), Confidence: 0.92
+Rule: {120, 90, 510} -> frozenset({793, 620}), Confidence: 0.91
+Rule: {793, 90, 510} -> frozenset({120, 620}), Confidence: 0.90
+Rule: {120, 793, 90, 620} -> frozenset({510}), Confidence: 0.94
+Rule: {120, 793, 620, 510} -> frozenset({90}), Confidence: 0.96
+Rule: {120, 90, 620, 510} -> frozenset({793}), Confidence: 0.96
+Rule: {793, 90, 620, 510} -> frozenset({120}), Confidence: 0.95
+Rule: {120, 793, 90, 510} -> frozenset({620}), Confidence: 0.96
+Rule: {620, 309} -> frozenset({120, 793, 90}), Confidence: 0.84
+Rule: {120, 620} -> frozenset({793, 90, 309}), Confidence: 0.83
+Rule: {793, 620} -> frozenset({120, 90, 309}), Confidence: 0.82
+Rule: {90, 620} -> frozenset({120, 793, 309}), Confidence: 0.77
+Rule: {120, 309} -> frozenset({793, 90, 620}), Confidence: 0.84
+Rule: {793, 309} -> frozenset({120, 90, 620}), Confidence: 0.83
+Rule: {90, 309} -> frozenset({120, 793, 620}), Confidence: 0.79
+Rule: {120, 793} -> frozenset({90, 620, 309}), Confidence: 0.77
+Rule: {120, 90} -> frozenset({793, 620, 309}), Confidence: 0.81
+Rule: {793, 90} -> frozenset({120, 620, 309}), Confidence: 0.82
+Rule: {120, 620, 309} -> frozenset({793, 90}), Confidence: 0.92
+Rule: {793, 620, 309} -> frozenset({120, 90}), Confidence: 0.91
+Rule: {90, 620, 309} -> frozenset({120, 793}), Confidence: 0.90
+Rule: {120, 793, 620} -> frozenset({90, 309}), Confidence: 0.93
+Rule: {120, 90, 620} -> frozenset({793, 309}), Confidence: 0.92
+Rule: {793, 90, 620} -> frozenset({120, 309}), Confidence: 0.91
+Rule: {120, 793, 309} -> frozenset({90, 620}), Confidence: 0.92
+Rule: {120, 90, 309} -> frozenset({793, 620}), Confidence: 0.91
+Rule: {793, 90, 309} -> frozenset({120, 620}), Confidence: 0.90
+Rule: {120, 793, 90} -> frozenset({620, 309}), Confidence: 0.93
+Rule: {120, 793, 620, 309} -> frozenset({90}), Confidence: 0.96
+Rule: {120, 90, 620, 309} -> frozenset({793}), Confidence: 0.95
+Rule: {793, 90, 620, 309} -> frozenset({120}), Confidence: 0.95
+Rule: {120, 793, 90, 620} -> frozenset({309}), Confidence: 0.97
+Rule: {120, 793, 90, 309} -> frozenset({620}), Confidence: 0.96
+Rule: {515} -> frozenset({33, 346, 283, 217}), Confidence: 0.63
+Rule: {33, 515} -> frozenset({217, 346, 283}), Confidence: 0.89
+Rule: {33, 217} -> frozenset({283, 346, 515}), Confidence: 0.86
+Rule: {33, 346} -> frozenset({283, 217, 515}), Confidence: 0.87
+Rule: {33, 283} -> frozenset({217, 346, 515}), Confidence: 0.87
+Rule: {217, 515} -> frozenset({33, 346, 283}), Confidence: 0.87
+Rule: {346, 515} -> frozenset({33, 283, 217}), Confidence: 0.86
+Rule: {283, 515} -> frozenset({33, 346, 217}), Confidence: 0.88
+Rule: {217, 283} -> frozenset({33, 346, 515}), Confidence: 0.79
+Rule: {346, 283} -> frozenset({33, 515, 217}), Confidence: 0.80
+Rule: {33, 515, 217} -> frozenset({346, 283}), Confidence: 0.93
+Rule: {33, 346, 515} -> frozenset({217, 283}), Confidence: 0.92
+Rule: {283, 33, 515} -> frozenset({217, 346}), Confidence: 0.93
+Rule: {33, 346, 217} -> frozenset({283, 515}), Confidence: 0.91
+Rule: {33, 283, 217} -> frozenset({346, 515}), Confidence: 0.92
+Rule: {33, 346, 283} -> frozenset({217, 515}), Confidence: 0.91
+Rule: {217, 346, 515} -> frozenset({33, 283}), Confidence: 0.90
+Rule: {283, 217, 515} -> frozenset({33, 346}), Confidence: 0.92
+Rule: {283, 346, 515} -> frozenset({33, 217}), Confidence: 0.91
+Rule: {217, 346, 283} -> frozenset({33, 515}), Confidence: 0.89
+Rule: {33, 346, 515, 217} -> frozenset({283}), Confidence: 0.96
+Rule: {283, 33, 515, 217} -> frozenset({346}), Confidence: 0.97
+Rule: {283, 33, 346, 515} -> frozenset({217}), Confidence: 0.96
+Rule: {33, 346, 283, 217} -> frozenset({515}), Confidence: 0.96
+Rule: {283, 217, 346, 515} -> frozenset({33}), Confidence: 0.95
+Rule: {546, 947} -> frozenset({217, 923, 661}), Confidence: 0.92
+Rule: {546, 661} -> frozenset({217, 947, 923}), Confidence: 0.92
+Rule: {217, 546} -> frozenset({947, 923, 661}), Confidence: 0.93
+Rule: {546, 923} -> frozenset({217, 947, 661}), Confidence: 0.93
+Rule: {947, 661} -> frozenset({217, 546, 923}), Confidence: 0.88
+Rule: {217, 947} -> frozenset({546, 923, 661}), Confidence: 0.78
+Rule: {947, 923} -> frozenset({217, 546, 661}), Confidence: 0.65
+Rule: {217, 661} -> frozenset({546, 947, 923}), Confidence: 0.81
+Rule: {923, 661} -> frozenset({217, 546, 947}), Confidence: 0.90
+Rule: {217, 923} -> frozenset({546, 947, 661}), Confidence: 0.89
+Rule: {546, 947, 661} -> frozenset({217, 923}), Confidence: 0.94
+Rule: {217, 546, 947} -> frozenset({923, 661}), Confidence: 0.97
+Rule: {546, 947, 923} -> frozenset({217, 661}), Confidence: 0.96
+Rule: {217, 546, 661} -> frozenset({947, 923}), Confidence: 0.96
+Rule: {546, 923, 661} -> frozenset({217, 947}), Confidence: 0.94
+Rule: {217, 546, 923} -> frozenset({947, 661}), Confidence: 0.97
+Rule: {217, 947, 661} -> frozenset({546, 923}), Confidence: 0.96
+Rule: {947, 923, 661} -> frozenset({217, 546}), Confidence: 0.95
+Rule: {217, 947, 923} -> frozenset({546, 661}), Confidence: 0.96
+Rule: {217, 923, 661} -> frozenset({546, 947}), Confidence: 0.96
+Rule: {217, 546, 947, 661} -> frozenset({923}), Confidence: 0.98
+Rule: {546, 947, 923, 661} -> frozenset({217}), Confidence: 0.97
+Rule: {217, 546, 947, 923} -> frozenset({661}), Confidence: 0.99
+Rule: {217, 546, 923, 661} -> frozenset({947}), Confidence: 0.98
+Rule: {217, 947, 923, 661} -> frozenset({546}), Confidence: 0.98
+Rule: {579, 803} -> frozenset({411, 572, 350}), Confidence: 0.81
+Rule: {803, 411} -> frozenset({579, 572, 350}), Confidence: 0.61
+Rule: {803, 572} -> frozenset({579, 411, 350}), Confidence: 0.83
+Rule: {803, 350} -> frozenset({579, 411, 572}), Confidence: 0.79
+Rule: {579, 411} -> frozenset({803, 572, 350}), Confidence: 0.82
+Rule: {579, 572} -> frozenset({803, 411, 350}), Confidence: 0.84
+Rule: {579, 350} -> frozenset({803, 411, 572}), Confidence: 0.80
+Rule: {411, 572} -> frozenset({579, 803, 350}), Confidence: 0.83
+Rule: {411, 350} -> frozenset({579, 803, 572}), Confidence: 0.81
+Rule: {572, 350} -> frozenset({579, 803, 411}), Confidence: 0.82
+Rule: {579, 803, 411} -> frozenset({572, 350}), Confidence: 0.88
+Rule: {579, 803, 572} -> frozenset({411, 350}), Confidence: 0.90
+Rule: {579, 803, 350} -> frozenset({411, 572}), Confidence: 0.89
+Rule: {803, 411, 572} -> frozenset({579, 350}), Confidence: 0.89
+Rule: {803, 411, 350} -> frozenset({579, 572}), Confidence: 0.88
+Rule: {803, 572, 350} -> frozenset({579, 411}), Confidence: 0.90
+Rule: {579, 411, 572} -> frozenset({803, 350}), Confidence: 0.90
+Rule: {579, 411, 350} -> frozenset({803, 572}), Confidence: 0.90
+Rule: {579, 572, 350} -> frozenset({803, 411}), Confidence: 0.90
+Rule: {411, 572, 350} -> frozenset({579, 803}), Confidence: 0.89
+Rule: {579, 803, 411, 572} -> frozenset({350}), Confidence: 0.95
+Rule: {579, 803, 411, 350} -> frozenset({572}), Confidence: 0.94
+Rule: {579, 803, 572, 350} -> frozenset({411}), Confidence: 0.95
+Rule: {350, 803, 411, 572} -> frozenset({579}), Confidence: 0.94
+Rule: {350, 579, 411, 572} -> frozenset({803}), Confidence: 0.95
+Rule: {192, 935} -> frozenset({888, 638, 487}), Confidence: 0.64
+Rule: {192, 487} -> frozenset({888, 638, 935}), Confidence: 0.96
+Rule: {192, 888} -> frozenset({487, 638, 935}), Confidence: 0.93
+Rule: {192, 638} -> frozenset({888, 487, 935}), Confidence: 0.94
+Rule: {487, 935} -> frozenset({192, 888, 638}), Confidence: 0.95
+Rule: {888, 935} -> frozenset({192, 638, 487}), Confidence: 0.93
+Rule: {638, 935} -> frozenset({192, 888, 487}), Confidence: 0.96
+Rule: {888, 487} -> frozenset({192, 638, 935}), Confidence: 0.89
+Rule: {638, 487} -> frozenset({192, 888, 935}), Confidence: 0.95
+Rule: {888, 638} -> frozenset({192, 487, 935}), Confidence: 0.94
+Rule: {192, 487, 935} -> frozenset({888, 638}), Confidence: 0.99
+Rule: {192, 888, 935} -> frozenset({638, 487}), Confidence: 0.98
+Rule: {192, 638, 935} -> frozenset({888, 487}), Confidence: 0.98
+Rule: {192, 888, 487} -> frozenset({638, 935}), Confidence: 1.00
+Rule: {192, 638, 487} -> frozenset({888, 935}), Confidence: 1.00
+Rule: {192, 888, 638} -> frozenset({487, 935}), Confidence: 1.00
+Rule: {888, 487, 935} -> frozenset({192, 638}), Confidence: 1.00
+Rule: {487, 638, 935} -> frozenset({192, 888}), Confidence: 1.00
+Rule: {888, 638, 935} -> frozenset({192, 487}), Confidence: 1.00
+Rule: {888, 638, 487} -> frozenset({192, 935}), Confidence: 1.00
+Rule: {192, 487, 888, 935} -> frozenset({638}), Confidence: 1.00
+Rule: {192, 487, 638, 935} -> frozenset({888}), Confidence: 1.00
+Rule: {192, 888, 638, 935} -> frozenset({487}), Confidence: 1.00
+Rule: {192, 888, 638, 487} -> frozenset({935}), Confidence: 1.00
+Rule: {888, 487, 638, 935} -> frozenset({192}), Confidence: 1.00
+Rule: {105, 494} -> frozenset({944, 862, 815}), Confidence: 0.75
+Rule: {105, 815} -> frozenset({944, 862, 494}), Confidence: 0.76
+Rule: {944, 105} -> frozenset({862, 494, 815}), Confidence: 0.75
+Rule: {105, 862} -> frozenset({944, 494, 815}), Confidence: 0.76
+Rule: {494, 815} -> frozenset({944, 105, 862}), Confidence: 0.75
+Rule: {944, 494} -> frozenset({105, 862, 815}), Confidence: 0.71
+Rule: {862, 494} -> frozenset({944, 105, 815}), Confidence: 0.65
+Rule: {944, 815} -> frozenset({105, 494, 862}), Confidence: 0.75
+Rule: {862, 815} -> frozenset({944, 105, 494}), Confidence: 0.76
+Rule: {944, 862} -> frozenset({105, 494, 815}), Confidence: 0.71
+Rule: {105, 494, 815} -> frozenset({944, 862}), Confidence: 0.85
+Rule: {944, 105, 494} -> frozenset({862, 815}), Confidence: 0.84
+Rule: {105, 494, 862} -> frozenset({944, 815}), Confidence: 0.85
+Rule: {944, 105, 815} -> frozenset({862, 494}), Confidence: 0.83
+Rule: {105, 862, 815} -> frozenset({944, 494}), Confidence: 0.85
+Rule: {944, 105, 862} -> frozenset({494, 815}), Confidence: 0.84
+Rule: {944, 494, 815} -> frozenset({105, 862}), Confidence: 0.84
+Rule: {862, 494, 815} -> frozenset({944, 105}), Confidence: 0.86
+Rule: {944, 862, 494} -> frozenset({105, 815}), Confidence: 0.85
+Rule: {944, 862, 815} -> frozenset({105, 494}), Confidence: 0.85
+Rule: {944, 105, 494, 815} -> frozenset({862}), Confidence: 0.91
+Rule: {105, 862, 494, 815} -> frozenset({944}), Confidence: 0.93
+Rule: {944, 105, 494, 862} -> frozenset({815}), Confidence: 0.92
+Rule: {944, 105, 862, 815} -> frozenset({494}), Confidence: 0.92
+Rule: {944, 862, 494, 815} -> frozenset({105}), Confidence: 0.93
