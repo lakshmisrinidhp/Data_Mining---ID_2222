@@ -1,6 +1,6 @@
 # Ja-Be-Ja Graph Partitioning Algorithm
 
-## 📋 Brief Overview
+##  Brief Overview
 This project implements the **Ja-Be-Ja algorithm**, a graph partitioning algorithm that minimizes edge cuts and balances partitions. The algorithm employs techniques like **simulated annealing**, **neighbor sampling**, and **randomized search** to optimize graph partitioning. An optional bonus implementation enhances the algorithm with advanced features like **probabilistic acceptance** and **exponential cooling**.
 
 ##  Tools and Technologies
